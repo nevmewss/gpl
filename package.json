@@ -1,0 +1,1 @@
+{"name":"play-app-page","private":true,"type":"module","scripts":{"dev":"nuxt dev --host 127.0.0.1","build":"nuxt build","generate":"nuxt generate","preview":"nuxt preview"},"dependencies":{"nuxt":"^4.0.0"}}

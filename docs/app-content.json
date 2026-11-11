@@ -1,0 +1,30 @@
+{
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+  "icon": "/assets/icon.png",
+  "name": "Facebook",
+  "developer": "Meta Platforms, Inc.",
+  "notice": "Есть реклама · Покупки в приложении",
+  "rating": "4,7",
+  "reviewCount": "181 млн",
+  "downloads": "10 млрд+",
+  "age": "12+",
+  "screenshots": [
+    {"src":"/assets/screen-1.webp","alt":"Score Marketplace gems"},
+    {"src":"/assets/screen-2.webp","alt":"Try something new together"},
+    {"src":"/assets/screen-3.webp","alt":"Join groups for any interest"},
+    {"src":"/assets/screen-4.webp","alt":"Explore whatever you’re into"},
+    {"src":"/assets/screen-5.webp","alt":"Возможности Facebook — 5"},
+    {"src":"/assets/screen-6.webp","alt":"Возможности Facebook — 6"},
+    {"src":"/assets/screen-7.webp","alt":"Возможности Facebook — 7"},
+    {"src":"/assets/screen-8.webp","alt":"Возможности Facebook — 8"}
+  ],
+  "description": "Живое общение с интересными людьми! На Facebook всегда есть с кем поделиться находками из местного секонд-хенда, забавными видео Reels, которые не все поймут, или смешными картинками от ИИ. Именно здесь легче всего находить единомышленников.",
+  "updatedAt": "4 нояб. 2026 г.",
+  "category": "Социальные",
+  "ranking": "#3 топ бесплатных в категории \"социальные\"",
+  "ratingDistribution": [86, 7, 2, 1, 4],
+  "reviews": [
+    {"id":"1","name":"Floral Dream Сытник Нонна","avatar":"/assets/avatar-1.png","rating":3,"date":"4 мая 2025 г.","text":"Уведомления в шторке высвечиваются, а когда их читаешь в самом приложении то уведомление так и остаётся в шторке, ранее уведомления исчезали после просмотра. Ошибка однако. Приходится убирать их вручную или на них нажимать и тогда исчезают. При загрузке фото в ленту уведомление загрузки остаётся тоже висеть и даже смахнуть нельзя. Исправьте пожалуйста.","helpfulCount":"770"},
+    {"id":"2","name":"Юлия Андреева","avatar":"/assets/avatar-2.png","rating":2,"date":"3 сентября 2026 г.","text":"Приложение мягко говоря ужасное. Шёл 2026 год, до сих пор возникают проблемы с уведомлениями. Хотелось бы более стабильной работы приложения.","helpfulCount":"124"}
+  ]
+}

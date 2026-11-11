@@ -1,0 +1,7 @@
+node_modules
+.nuxt
+.output
+play-reference.html
+*.tar.gz
+*.log
+dist/
