@@ -5,3 +5,8 @@ play-reference.html
 *.tar.gz
 *.log
 dist/
+data/
+.env
+.env.*
+backups/
+test-results/

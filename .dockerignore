@@ -1,0 +1,16 @@
+node_modules
+.nuxt
+.output
+.git
+.env*
+.openai
+.codex
+README.md
+AGENTS.md
+docs
+dist
+data
+backups
+test-results
+play-reference.html
+*.log

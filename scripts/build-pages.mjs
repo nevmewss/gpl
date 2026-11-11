@@ -6,7 +6,7 @@ const root = fileURLToPath(new URL('../', import.meta.url));
 const result = spawnSync(process.execPath, ['node_modules/nuxt/bin/nuxt.mjs', 'generate'], {
   cwd: root,
   stdio: 'inherit',
-  env: { ...process.env, NUXT_APP_BASE_URL: '/gpl/' }
+  env: { ...process.env, NUXT_APP_BASE_URL: '/gpl/', NUXT_PUBLIC_PREVIEW_ONLY: 'true' }
 });
 if (result.status !== 0) process.exit(result.status || 1);
 await mkdir(new URL('../docs/', import.meta.url), { recursive: true });
